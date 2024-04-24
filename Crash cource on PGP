@@ -1,0 +1,18 @@
+- How it works
+A. The sender generates plain text
+B. Encrypt it using a public key
+C. Recipient decrypts the encrypted text using a private key
+D. The recipient receives the plain text
+
+- Online PGP tool: pgptool.org
+
+Instructions:
+A. use a FAKE name and REAL e-mail address
+B. Algorithm: RSA (safer)
+C. Key-size: 4096 bits
+
+- Or: Download from: https://www.gnupg.org/
+
+Ref:
+https://www.youtube.com/watch?v=h4hHHb6Jbb4
+
